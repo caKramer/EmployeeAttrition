@@ -4,6 +4,8 @@ Employee Attrition: what are the tipping points that lead to employee turnover
 
 4 Jupyter Notebooks included, broken down by milestone workflow. Run through each to get a very full picture plus all work completed as part of this study. For just an overview of the whole process just run Milestone4.
 
+Complete write up available in the EmployeeAttrition.pdf
+
 ## Data Set: 
 
 IBM HR Analytics Employee Attrition & Performance Dataset from Kaggle
