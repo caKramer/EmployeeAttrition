@@ -2,7 +2,7 @@
 
 Employee Attrition: what are the tipping points that lead to employee turnover
 
-4 Jupyter Notebooks included, broken down by milestone workflow. Run through each to get a very full picture plus all work completed as part of this study. For just an overview of the whole process just run Milestone4.
+4 Jupyter Notebooks included, broken down by milestone workflow. Run through each to get a full picture plus all work completed as part of this study. For just an overview of the whole process just run Milestone4.
 
 Complete write up available in the EmployeeAttrition.pdf
 
@@ -51,3 +51,11 @@ Includes: Exploratory Data Analysis, visualizations, and feature engineering
 - Tuning
 - `class_weight='balanced'`
 - SMOTE
+
+___
+
+## How To
+
+- pull each milestone to slowly build the full study, or pull milestone 4 and have a condensed view.
+- Data is the included csv file
+- PDF is for write up of results/study
